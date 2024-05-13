@@ -16,5 +16,5 @@ function selectionSort(arr) {
     }
     return arr
 }
-const arr=[9,1,8,2,7,3,6,5]
+const arr=[9,1,8,2,7,3,6,5,0]
 console.log(selectionSort(arr))
